@@ -12,4 +12,18 @@ Please refer to `examples/msmarco-passage-ranking`.
 ## Reproduction for Natural Questions
 Please refer to `examples/natural-questions`.
 
+## References
+
+
+
+```bibtex
+@article{tang2022dptdr,
+  title={DPTDR: Deep Prompt Tuning for Dense Passage Retrieval},
+  author={Tang, Zhengyang and Wang, Benyou and Yao, Ting},
+  journal={arXiv preprint arXiv:2208.11503},
+  year={2022}
+}
+```
+
+
 
